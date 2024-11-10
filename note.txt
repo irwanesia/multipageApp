@@ -1,0 +1,16 @@
+# icon
+https://fonts.google.com/icons
+
+https://www.flaticon.com/
+
+# webhook
+https://webhook.site/
+# API
+https://jsonplaceholder.typicode.com/posts
+# API
+https://jsonplaceholder.typicode.com/todos/1
+
+
+#### referensi 
+channel yt : Coding is fun
+    video : build and deploy a multi-page web application using python (Streamlit)
